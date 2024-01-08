@@ -1,0 +1,91 @@
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\bin\Debug\net6.0\appsettings.Development.json
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\bin\Debug\net6.0\appsettings.json
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\bin\Debug\net6.0\lab13.staticwebassets.runtime.json
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\bin\Debug\net6.0\lab13.exe
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\bin\Debug\net6.0\lab13.deps.json
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\bin\Debug\net6.0\lab13.runtimeconfig.json
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\bin\Debug\net6.0\lab13.dll
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\bin\Debug\net6.0\lab13.pdb
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.csproj.AssemblyReference.cache
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.MvcApplicationPartsAssemblyInfo.cache
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cache
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cs
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\staticwebassets\msbuild.lab13.Microsoft.AspNetCore.StaticWebAssets.props
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\staticwebassets\msbuild.build.lab13.props
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab13.props
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab13.props
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\staticwebassets.pack.json
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\staticwebassets.build.json
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\staticwebassets.development.json
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\scopedcss\bundle\lab13.styles.css
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\scopedcss\projectbundle\lab13.bundle.scp.css
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.dll
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\refint\lab13.dll
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.pdb
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\lab13.genruntimeconfig.cache
+D:\stydy\uni\5_семестр\Web-технологии\lab13\lab13\obj\Debug\net6.0\ref\lab13.dll
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\bin\Debug\net6.0\appsettings.Development.json
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\bin\Debug\net6.0\appsettings.json
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\bin\Debug\net6.0\lab13.staticwebassets.runtime.json
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\bin\Debug\net6.0\lab13.exe
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\bin\Debug\net6.0\lab13.deps.json
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\bin\Debug\net6.0\lab13.runtimeconfig.json
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\bin\Debug\net6.0\lab13.dll
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\bin\Debug\net6.0\lab13.pdb
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cs
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\staticwebassets.build.json
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\staticwebassets.development.json
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\staticwebassets\msbuild.lab13.Microsoft.AspNetCore.StaticWebAssets.props
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\staticwebassets\msbuild.build.lab13.props
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab13.props
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab13.props
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\staticwebassets.pack.json
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\scopedcss\bundle\lab13.styles.css
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\scopedcss\projectbundle\lab13.bundle.scp.css
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.dll
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\refint\lab13.dll
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.pdb
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\lab13.genruntimeconfig.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\932103.efremova.yulia.lab13-master\lab13\obj\Debug\net6.0\ref\lab13.dll
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\bin\Debug\net6.0\appsettings.Development.json
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\bin\Debug\net6.0\appsettings.json
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\bin\Debug\net6.0\lab13.staticwebassets.runtime.json
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\bin\Debug\net6.0\lab13.exe
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\bin\Debug\net6.0\lab13.deps.json
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\bin\Debug\net6.0\lab13.runtimeconfig.json
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\bin\Debug\net6.0\lab13.dll
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\bin\Debug\net6.0\lab13.pdb
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cs
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\staticwebassets.build.json
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\staticwebassets.development.json
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\staticwebassets\msbuild.lab13.Microsoft.AspNetCore.StaticWebAssets.props
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\staticwebassets\msbuild.build.lab13.props
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab13.props
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab13.props
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\staticwebassets.pack.json
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\scopedcss\bundle\lab13.styles.css
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\scopedcss\projectbundle\lab13.bundle.scp.css
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.dll
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\refint\lab13.dll
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.pdb
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\lab13.genruntimeconfig.cache
+\\Mac\Home\Documents\семестр 5\web-технологии\13\932101.vu.anh.lab13\lab13\obj\Debug\net6.0\ref\lab13.dll
